@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uowwnui
-- 👀 I’m interested in Unity for Game Development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning C# programming for unity game development
 - 💞️ I’m looking to collaborate on indie game
 - 📫 How to reach me via email: nummon.phonpao@gmail.com
 
